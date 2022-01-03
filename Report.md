@@ -2,9 +2,8 @@
 
 ## Overview of Analysis
 
-The purpose of this analysis is to predict if whether or not an applicant for funding will be successful if funded by Alphabet Soup. The features in the dataset were used to create a binary classifier that is capable of making such predication. 
+The purpose of this analysis is to predict if whether or not an applicant for funding will be successful if funded by Alphabet Soup. The features in the dataset, a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years, were used to create a binary classifier that is capable of making such predication. 
 
-- - -
 
 ## Results
 
@@ -25,10 +24,9 @@ The purpose of this analysis is to predict if whether or not an applicant for fu
 
 * Steps to increase model performance:
 
-- - -
 
 ## Summary
 
-The overall results of the deep learning model ... A recommendation for a different model that could solve this classification problem would be ... becuase 
+The overall results of the deep learning model ... A recommendation for a different model that could solve this classification problem would be ... becuase ...
 
-- - -
+
